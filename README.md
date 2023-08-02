@@ -10,3 +10,5 @@ Required to do 3 manndatory questions in the 'main' section for 100% grade.
 Problem Solving: 
 Main section contained 15 ( fifteen ) questions worth 100 marks worth 100% of grade. 
 Bonus section consists of 15 ( fifteen ) challenging questions worth an addition ( optional ) 100 marks to boost my score. 
+
+A Web Design/ Development module was also done for this course, found here: https://github.com/camrongloudon/diplomaInComputingWebDesign
